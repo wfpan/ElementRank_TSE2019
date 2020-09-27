@@ -1,0 +1,2 @@
+# ElementRank_TSE2019
+This is the replication package for our work accepted in IEEE Transactions on Software Engineering (IEEE TSE), i.e., Weifeng Pan, Hua Ming, Carl K. Chang, Zijiang Yang, Dae-Kyoo Kim. ElementRank: Ranking Java Software Classes and Packages using Multilayer Complex Network-Based Approach. IEEE Transactions on Software Engineering (IEEE TSE), 2019, DOI: 10.1109/TSE.2019.2946357. 
