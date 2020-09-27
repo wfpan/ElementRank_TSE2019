@@ -16,5 +16,5 @@ The steps to use ElementRank.jar is shown as follows. To run the software, you s
 ## Cite our work
 If you use our data set or tool, please cite our work.
 
-Weifeng pan, Xinxin Xu, Hua Ming, Ping Gong, Bo Jiang, Chunlai Chai, Bailin Yang. <i>Identifying Key People in Chinese Literary Works using e-Core Decomposition</i>, IEEE Access, 2020, 8: 169872-169886, DOI: 10.1109/ACCESS.2020.3024210. [[PDF](https://ieeexplore.ieee.org/document/9197583)]
+Weifeng Pan, Hua Ming, Carl K. Chang, Zijiang Yang, Dae-Kyoo Kim. ElementRank: Ranking Java Software Classes and Packages using Multilayer Complex Network-Based Approach. IEEE Transactions on Software Engineering (IEEE TSE), 2019, DOI: 10.1109/TSE.2019.2946357. [[PDF](https://ieeexplore.ieee.org/document/8862895)]
 
