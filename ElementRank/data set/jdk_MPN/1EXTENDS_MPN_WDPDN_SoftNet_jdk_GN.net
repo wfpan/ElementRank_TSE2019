@@ -1,0 +1,371 @@
+*Vertices 80
+1 "java.text.resources"
+2 "java.text"
+3 "javax.naming.directory"
+4 "java.rmi.activation"
+5 "java.awt.dnd.peer"
+6 "java.awt"
+7 "java.beans"
+8 "sun.tools.ttydebug"
+9 "javax.swing.plaf"
+10 "java.awt.color"
+11 "java.util"
+12 "java.rmi.dgc"
+13 "java.security.interfaces"
+14 "javax.swing.colorchooser"
+15 "java.io"
+16 "javax.swing.table"
+17 "java.lang.reflect"
+18 "java.awt.peer"
+19 "java.awt.im"
+20 "javax.accessibility"
+21 "java.awt.event"
+22 "javax.swing.border"
+23 "java.sql"
+24 "java.rmi.server"
+25 "java.rmi.registry"
+26 "javax.swing.text.rtf"
+27 "javax.swing.text"
+28 "java.util.zip"
+29 "java.awt.geom"
+30 "javax.swing.tree"
+31 "org.omg.CORBA"
+32 "java.awt.image.renderable"
+33 "javax.swing.text.html"
+34 "org.omg.SendingContext"
+35 "java.security.cert"
+36 "java.awt.print"
+37 "java.util.jar"
+38 "java.beans.beancontext"
+39 "com.sun.java.swing.plaf.motif"
+40 "java.awt.im.spi"
+41 "java.lang.ref"
+42 "java.security"
+43 "javax.swing.plaf.basic"
+44 "java.awt.image"
+45 "javax.swing.plaf.multi"
+46 "java.awt.font"
+47 "javax.swing.undo"
+48 "sunw.util"
+49 "java.rmi"
+50 "javax.naming.ldap"
+51 "java.net"
+52 "java.awt.datatransfer"
+53 "org.omg.CORBA.ORBPackage"
+54 "com.sun.image.codec.jpeg"
+55 "java.lang"
+56 "javax.swing"
+57 "org.omg.CORBA.TypeCodePackage"
+58 "javax.swing.filechooser"
+59 "javax.naming.spi"
+60 "javax.swing.event"
+61 "org.omg.CosNaming.NamingContextPackage"
+62 "sunw.io"
+63 "javax.naming"
+64 "org.omg.CORBA.DynAnyPackage"
+65 "java.math"
+66 "org.omg.CORBA.portable"
+67 "org.omg.CORBA_2_3"
+68 "javax.naming.event"
+69 "com.sun.java.swing.plaf.windows"
+70 "org.omg.CosNaming"
+71 "java.awt.dnd"
+72 "javax.swing.text.html.parser"
+73 "javax.swing.plaf.metal"
+74 "org.omg.stub.java.rmi"
+75 "com.sun.naming.internal"
+76 "java.security.acl"
+77 "java.security.spec"
+78 "java.applet"
+79 "org.omg.CORBA_2_3.portable"
+80 "ground"
+*Arcs
+56 78 2.0
+39 43 37.0
+69 43 39.0
+30 56 2.0
+43 21 20.0
+45 9 28.0
+6 11 1.0
+64 31 4.0
+33 56 2.0
+43 56 10.0
+33 21 2.0
+43 9 29.0
+33 27 28.0
+24 49 3.0
+7 11 1.0
+56 11 2.0
+73 43 33.0
+55 42 1.0
+14 27 1.0
+45 56 2.0
+37 15 2.0
+31 66 3.0
+56 6 13.0
+70 31 2.0
+69 27 3.0
+56 20 7.0
+43 27 8.0
+21 6 8.0
+10 55 2.0
+9 22 7.0
+60 11 13.0
+7 15 1.0
+4 24 2.0
+43 33 2.0
+39 56 13.0
+56 21 6.0
+61 31 5.0
+60 6 2.0
+43 60 3.0
+57 31 2.0
+27 47 8.0
+3 63 11.0
+28 15 6.0
+51 42 3.0
+24 55 1.0
+79 66 4.0
+33 6 2.0
+71 11 3.0
+39 27 1.0
+69 21 1.0
+73 22 12.0
+69 56 6.0
+11 42 1.0
+58 15 1.0
+14 56 4.0
+43 22 4.0
+9 6 4.0
+16 56 3.0
+37 28 4.0
+23 11 3.0
+50 63 1.0
+56 16 3.0
+73 56 6.0
+39 21 2.0
+51 15 7.0
+66 15 2.0
+31 55 2.0
+43 6 3.0
+67 31 1.0
+60 21 2.0
+6 29 3.0
+60 7 1.0
+44 55 2.0
+16 20 1.0
+14 21 2.0
+6 20 1.0
+26 55 1.0
+24 11 1.0
+48 11 1.0
+72 15 1.0
+38 11 1.0
+42 11 2.0
+66 31 2.0
+77 42 2.0
+78 6 2.0
+1 11 4.0
+39 22 5.0
+53 31 2.0
+24 15 1.0
+43 58 2.0
+6 46 1.0
+15 42 2.0
+39 30 1.0
+73 21 2.0
+35 42 2.0
+56 30 1.0
+17 42 1.0
+68 11 2.0
+43 30 1.0
+56 27 4.0
+49 55 3.0
+49 15 1.0
+50 11 1.0
+2 11 1.0
+9 56 3.0
+26 15 1.0
+56 15 1.0
+6 42 1.0
+27 43 1.0
+44 6 1.0
+46 2 1.0
+33 22 1.0
+15 11 1.0
+33 60 1.0
+42 15 2.0
+26 27 1.0
+27 15 1.0
+11 41 1.0
+23 42 1.0
+72 33 1.0
+27 6 1.0
+56 44 2.0
+4 49 1.0
+15 41 1.0
+56 41 1.0
+29 55 1.0
+70 66 2.0
+69 22 1.0
+20 11 1.0
+23 55 1.0
+50 3 1.0
+1 80 1
+80 1 1
+2 80 1
+80 2 1.0
+3 80 1
+80 3 1.0
+4 80 1
+80 4 1
+5 80 1
+80 5 1
+6 80 1
+80 6 36.0
+7 80 1
+80 7 1.0
+8 80 1
+80 8 1
+9 80 1
+80 9 57.0
+10 80 1
+80 10 1
+11 80 1
+80 11 38.0
+12 80 1
+80 12 1
+13 80 1
+80 13 1
+14 80 1
+80 14 1
+15 80 1
+80 15 27.0
+16 80 1
+80 16 3.0
+17 80 1
+80 17 1
+18 80 1
+80 18 1
+19 80 1
+80 19 1
+20 80 1
+80 20 9.0
+21 80 1
+80 21 37.0
+22 80 1
+80 22 30.0
+23 80 1
+80 23 1
+24 80 1
+80 24 2.0
+25 80 1
+80 25 1
+26 80 1
+80 26 1
+27 80 1
+80 27 46.0
+28 80 1
+80 28 4.0
+29 80 1
+80 29 3.0
+30 80 1
+80 30 3.0
+31 80 1
+80 31 18.0
+32 80 1
+80 32 1
+33 80 1
+80 33 3.0
+34 80 1
+80 34 1
+35 80 1
+80 35 1
+36 80 1
+80 36 1
+37 80 1
+80 37 1
+38 80 1
+80 38 1
+39 80 1
+80 39 1
+40 80 1
+80 40 1
+41 80 1
+80 41 3.0
+42 80 1
+80 42 14.0
+43 80 1
+80 43 110.0
+44 80 1
+80 44 2.0
+45 80 1
+80 45 1
+46 80 1
+80 46 1.0
+47 80 1
+80 47 8.0
+48 80 1
+80 48 1
+49 80 1
+80 49 4.0
+50 80 1
+80 50 1
+51 80 1
+80 51 1
+52 80 1
+80 52 1
+53 80 1
+80 53 1
+54 80 1
+80 54 1
+55 80 1
+80 55 13.0
+56 80 1
+80 56 51.0
+57 80 1
+80 57 1
+58 80 1
+80 58 2.0
+59 80 1
+80 59 1
+60 80 1
+80 60 4.0
+61 80 1
+80 61 1
+62 80 1
+80 62 1
+63 80 1
+80 63 12.0
+64 80 1
+80 64 1
+65 80 1
+80 65 1
+66 80 1
+80 66 9.0
+67 80 1
+80 67 1
+68 80 1
+80 68 1
+69 80 1
+80 69 1
+70 80 1
+80 70 1
+71 80 1
+80 71 1
+72 80 1
+80 72 1
+73 80 1
+80 73 1
+74 80 1
+80 74 1
+75 80 1
+80 75 1
+76 80 1
+80 76 1
+77 80 1
+80 77 1
+78 80 1
+80 78 2.0
+79 80 1
+80 79 1

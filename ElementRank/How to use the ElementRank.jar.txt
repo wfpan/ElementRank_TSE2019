@@ -1,0 +1,15 @@
+ElementRank.jar is a small part of our own developped software, SNAP. Of course, the SNAP software can be obtained by email to us. Email: wfpan1982@163.com or wfpan@zjgsu.edu.cn.
+
+The steps to use ElementRank.jar is shown as follows. To run the software, you should install the jdk (java development kit) 1.6 (or higher) first in your computer. JDK can be downloaded from https://www.oracle.com/technetwork/java/javase/downloads/index.html
+
+1. Download the ElementRank.jar and the data set file to the same directory.
+
+2. Double-click the ElementRank.jar
+
+3. Select File->Open Directory...
+
+4. Browse and select the directory that software network files exist. Suppose you select the jdk directory in the data set we provided.
+
+5. Select Analysis->aggregated weighted PageRank
+
+6. Then you will get the global weighted PageRank value for each package. You can also find a file storing the obtained results in the corresponding jdk directory.

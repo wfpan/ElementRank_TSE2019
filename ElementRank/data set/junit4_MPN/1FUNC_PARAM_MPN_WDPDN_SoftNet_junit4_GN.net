@@ -1,0 +1,151 @@
+*Vertices 31
+1 "org.junit.experimental.categories"
+2 "org.junit.runner.manipulation"
+3 "org.junit.experimental.theories.internal"
+4 "org.junit.experimental.runners"
+5 "junit.runner"
+6 "org.junit.runner"
+7 "org.junit.internal.runners"
+8 "org.junit.runners"
+9 "org.junit.validator"
+10 "org.junit"
+11 "org.junit.internal.runners.model"
+12 "junit.framework"
+13 "org.junit.runners.parameterized"
+14 "org.junit.internal"
+15 "org.junit.experimental"
+16 "org.junit.experimental.theories"
+17 "org.junit.internal.runners.rules"
+18 "junit.textui"
+19 "org.junit.experimental.results"
+20 "org.junit.internal.runners.statements"
+21 "org.junit.internal.requests"
+22 "junit.extensions"
+23 "org.junit.experimental.max"
+24 "org.junit.rules"
+25 "org.junit.internal.builders"
+26 "org.junit.internal.matchers"
+27 "org.junit.runner.notification"
+28 "org.junit.experimental.theories.suppliers"
+29 "org.junit.matchers"
+30 "org.junit.runners.model"
+31 "ground"
+*Arcs
+24 30 22.0
+18 12 17.0
+22 12 10.0
+6 30 3.0
+12 6 6.0
+24 6 32.0
+28 16 1.0
+7 2 4.0
+24 10 3.0
+8 27 9.0
+8 30 30.0
+9 30 14.0
+7 14 2.0
+27 6 16.0
+19 6 2.0
+15 6 1.0
+6 12 1.0
+7 12 13.0
+7 6 3.0
+17 30 16.0
+3 30 5.0
+16 14 1.0
+7 27 11.0
+8 2 5.0
+20 30 7.0
+6 27 5.0
+23 6 21.0
+6 14 1.0
+6 2 1.0
+14 27 2.0
+14 6 5.0
+15 30 2.0
+24 14 2.0
+1 30 2.0
+11 6 1.0
+5 12 6.0
+2 6 4.0
+21 6 2.0
+1 2 1.0
+11 30 1.0
+25 30 1.0
+16 3 4.0
+12 2 2.0
+3 16 21.0
+16 30 4.0
+13 30 2.0
+21 2 2.0
+23 27 1.0
+8 6 3.0
+11 27 1.0
+11 14 1.0
+20 14 1.0
+4 30 1.0
+1 6 9.0
+25 27 1.0
+8 14 2.0
+8 13 1.0
+13 27 1.0
+1 31 1
+31 1 1
+2 31 1
+31 2 15.0
+3 31 1
+31 3 4.0
+4 31 1
+31 4 1
+5 31 1
+31 5 1
+6 31 1
+31 6 105.0
+7 31 1
+31 7 1
+8 31 1
+31 8 1
+9 31 1
+31 9 1
+10 31 1
+31 10 3.0
+11 31 1
+31 11 1
+12 31 1
+31 12 47.0
+13 31 1
+31 13 1.0
+14 31 1
+31 14 10.0
+15 31 1
+31 15 1
+16 31 1
+31 16 22.0
+17 31 1
+31 17 1
+18 31 1
+31 18 1
+19 31 1
+31 19 1
+20 31 1
+31 20 1
+21 31 1
+31 21 1
+22 31 1
+31 22 1
+23 31 1
+31 23 1
+24 31 1
+31 24 1
+25 31 1
+31 25 1
+26 31 1
+31 26 1
+27 31 1
+31 27 31.0
+28 31 1
+31 28 1
+29 31 1
+31 29 1
+30 31 1
+31 30 110.0

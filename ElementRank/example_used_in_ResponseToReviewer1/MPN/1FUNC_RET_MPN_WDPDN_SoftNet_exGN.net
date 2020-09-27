@@ -1,0 +1,24 @@
+*Vertices 8
+1 "com.wfpan.p1"
+2 "com.wfpan.p4"
+3 "com.wfpan.p3"
+4 "com.wfpan.p7"
+5 "com.wfpan.p5"
+6 "com.wfpan.p6"
+7 "com.wfpan.p2"
+8 "ground"
+*Arcs
+1 8 1
+8 1 1
+2 8 1
+8 2 1
+3 8 1
+8 3 1
+4 8 1
+8 4 1
+5 8 1
+8 5 1
+6 8 1
+8 6 1
+7 8 1
+8 7 1
