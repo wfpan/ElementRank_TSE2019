@@ -1,5 +1,5 @@
 # ElementRank_TSE2019
-This is the replication package for our work accepted in IEEE Transactions on Software Engineering (IEEE TSE), i.e., Weifeng Pan, Hua Ming, Carl K. Chang, Zijiang Yang, Dae-Kyoo Kim. ElementRank: Ranking Java Software Classes and Packages using Multilayer Complex Network-Based Approach. IEEE Transactions on Software Engineering (IEEE TSE), 2019, DOI: 10.1109/TSE.2019.2946357. [[PDF](https://ieeexplore.ieee.org/document/8862895)]
+This is the replication package for our work accepted in IEEE Transactions on Software Engineering (IEEE TSE), i.e., Weifeng Pan, Hua Ming, Carl K. Chang, Zijiang Yang, Dae-Kyoo Kim. ElementRank: Ranking Java Software Classes and Packages using Multilayer Complex Network-Based Approach. IEEE Transactions on Software Engineering, 2021, 47(10): 2272-2295, DOI: 10.1109/TSE.2019.2946357. [[PDF](https://ieeexplore.ieee.org/document/8862895)]
 
 # ElementRank.jar
 ElementRank.jar is a small part of our own developped software, SNAP. Of course, the SNAP software can be obtained by emailling us. Email: wfpan@zjgsu.edu.cn.
@@ -16,5 +16,5 @@ The steps to use ElementRank.jar is shown as follows. To run the software, you s
 ## Cite our work
 If you use our data set or tool, please cite our work.
 
-Weifeng Pan, Hua Ming, Carl K. Chang, Zijiang Yang, Dae-Kyoo Kim. ElementRank: Ranking Java Software Classes and Packages using Multilayer Complex Network-Based Approach. IEEE Transactions on Software Engineering (IEEE TSE), 2019, DOI: 10.1109/TSE.2019.2946357. [[PDF](https://ieeexplore.ieee.org/document/8862895)]
+Weifeng Pan, Hua Ming, Carl K. Chang, Zijiang Yang, Dae-Kyoo Kim. ElementRank: Ranking Java Software Classes and Packages using Multilayer Complex Network-Based Approach. IEEE Transactions on Software Engineering, 2021, 47(10): 2272-2295, DOI: 10.1109/TSE.2019.2946357. [[PDF](https://ieeexplore.ieee.org/document/8862895)]
 
